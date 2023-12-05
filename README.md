@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 01 HTML CSS Git: Code Refactor
 
 ## Your Task
@@ -119,3 +120,6 @@ You are required to submit the following for review:
 
 ---
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+=======
+# Horiseon-Code-Refactor
+>>>>>>> 03a1c70819ca6018b62e0d856b90ac6b4fed5785
